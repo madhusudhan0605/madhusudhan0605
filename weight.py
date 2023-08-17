@@ -6,5 +6,5 @@ if kilo_or_lbs.upper() == 'K':
 elif kilo_or_lbs.upper() == 'L':
     weight = weight * convert
 else:
-    Print("Enter Valid value")
+    print("Enter Valid value")
 print("Converted value:",weight)
